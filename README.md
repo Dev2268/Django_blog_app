@@ -1,2 +1,2 @@
 # Django_blog_app
-simple blog app to perform crud operation on database
+Simple Blog app to appply knowledge of crud operation on database using python framework django.
